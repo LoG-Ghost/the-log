@@ -1,0 +1,96 @@
+
+body{
+font-family: arial, helvetica, sans-serif;
+font-size: medium;
+
+color: rgb(26, 26, 197);
+border-top-color: rgb(29, 84, 238);
+border-bottom-color: navy;
+border-style: solid;
+border-width: 5px;
+border-top-width: 2px;
+border-bottom-width: 10px;
+
+min-width: none;
+max-width: 1000px;
+margin: auto;
+margin-top:30px;
+margin-bottom:60px;
+image-rendering: pixelated;
+background: cornflowerblue url(https://64.media.tumblr.com/7ff580509d85464891a87f30ee1a5521/fa5be117117ae82f-0f/s540x810/c9372837e07780c63425a3fe37fe2e707bd7ea17.pnj) repeat top right;
+}
+html{
+    scrollbar-color: rgb(2, 150, 118)rgb(20,0,40);
+}
+::selection{
+    color: rgb(90, 243, 210);
+    background: navy;
+}
+p{
+font-size: x-large;
+text-rendering: optimizeSpeed;
+color: black;
+text-shadow: 0px 0px 5px #9ee6f3;
+margin-left: 20px;
+margin-right: 20px;
+white-space: pre-wrap;
+}
+h1{
+text-transform: capitalize;
+color:rgb(53, 132, 252);
+
+border-color: rgb(26, 26, 197);
+border-top-color: rgb(29, 84, 238);
+border-bottom-color: navy;
+border-style: solid;
+border-width: 5px;
+border-top-width: 2px;
+border-bottom-width: 10px;
+
+background-color:rgb(20,0,40);
+box-shadow: 6px 6px 6px 5px rgba(8, 4, 31, 0.712);
+margin: 10%;
+margin-top:20px;
+margin-bottom:30px;
+padding: 30px;
+}
+
+h2{
+color:blue;
+background-color:rgb(20,0,40);
+margin: 10%;
+margin-top:20px;
+margin-bottom:30px;
+padding: 20px;
+}
+a{
+color: rgb(4, 59, 21);
+font-weight:bold;
+text-decoration: none;
+}
+ol, ul, dl{
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.425);
+    color: rgb(26, 26, 197);
+    border-top-color: rgb(29, 84, 238);
+    border-bottom-color: navy;
+    border-style: solid;
+    border-width: 3px;
+    border-top-width: 2px;
+    border-bottom-width: 5px;
+    margin: 30%;
+    margin-top:20px;
+    margin-bottom:30px;
+}
+table{
+margin: 20px;
+border-style: dotted;
+}
+section{
+    background:rgba(22, 11, 46, 0.397)
+        url(https://64.media.tumblr.com/7247356202a872f630647616348dffc5/61bb46efb34e1a23-e1/s75x75_c1/3c175ed6f5888d8a22e5e4e3bc4465aa8a0c41bc.pnj) repeat top right;
+        background-size: 128px;
+    border-style: ridge;
+    margin: 20px;
+    color: rgb(2, 150, 118)
+}
